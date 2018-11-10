@@ -1,9 +1,3 @@
-Primeira linha do arquivo
+Primeira linha do arquivo ---
 
-Outra alteração no nosso arquivo
-
-linha teste
-
-teste do stash
-
-***ALTERAÇÃO NA BRANCH DEV***
+Outra alteração nosso arquivo
