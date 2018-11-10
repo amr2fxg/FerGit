@@ -4,9 +4,11 @@ linha teste
 
 teste do stash
 
-///ALTERA«√O NA BRANCH  DEV///
+///ALTERA√á√ÉO NA BRANCH  DEV///
 Primeira linha do arquivo ---
 
-Outra alteraÁ„o nosso arquivo
+Outra altera√ß√£o nosso arquivo
 
 agora sim a coisa esta remota!!
+
+Ahhhhh mulequeeee!! COMITADA FINAL!!!
