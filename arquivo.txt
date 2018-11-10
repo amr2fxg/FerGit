@@ -5,3 +5,7 @@ linha teste
 teste do stash
 
 ///ALTERAÇÃO NA BRANCH  DEV///
+Primeira linha do arquivo ---
+
+Outra alteração nosso arquivo
+
